@@ -1,0 +1,3 @@
+user: arsh311202_db_user
+pass: gGxUWLeZqIBS2A6i
+connection_string: mongodb+srv://arsh311202_db_user:<db_password>@cluster0.zesyz9e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
