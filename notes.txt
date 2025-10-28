@@ -1,0 +1,10 @@
+Workflow when working with each component:
+1. constant 
+2. config_entity
+3. artifact_entity
+4. component
+5. pipeline
+6 app.py/demo.py 
+
+
+we have __init__.py in each component to install each component as a package. 
