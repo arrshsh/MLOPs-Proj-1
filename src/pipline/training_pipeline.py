@@ -42,8 +42,6 @@ class TrainPipeline:
         except Exception as e:
             raise MyException(e, sys) from e
 
-
-
     def run_pipeline(self, ) -> None:
         """
         This method of TrainPipeline class is responsible for running complete pipeline
